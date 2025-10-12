@@ -8,16 +8,11 @@ I am a student of computer systems engineering.
 
 <h2 align="center">About me</h2>
 
-<p align="center">
-  <img src="URL_A_TU_IMAGEN_DE_AVATAR" alt="Avatar con laptop" width="120" />
-</p>
-
 <ul>
   <li>🎓 I'm currently a student</li>
-  <li>🎮 I'm currently learning **Unity & competitive programming**.</li>
-  <li>🤝 I'm looking to collaborate on **Proyectos**</li>
-  <li>💬 Ask me about **C++, JavaScript, Java**</li>
-  <li>⚡ Fun fact: 🧗‍♀️ 💻 🎧 🗓️ 🎲</li>
+  <li>🎮 I'm currently learning Python, Typescrip & competitive programming.</li>
+  <li>🤝 I'm looking to collaborate on Projects</li>
+  <li>💬 Ask me about C++, JavaScript, Java</li>
 </ul>
 
 <hr>
@@ -26,17 +21,15 @@ I am a student of computer systems engineering.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </p>
 
 <hr>
