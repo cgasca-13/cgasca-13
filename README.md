@@ -1,4 +1,3 @@
-<h1 align="center">Hello&gt;!</h1>
 
 <h2 style="color: #6d6d6d;">Hey! I'm Carlos Gasca Contreras</h2>
 
