@@ -1,4 +1,4 @@
-<h1 align="center">Hello, &lt;coders/&gt;!</h1>
+<h1 align="center">Hello&gt;!</h1>
 
 <h2 style="color: #6d6d6d;">Hey! I'm Carlos Gasca Contreras</h2>
 
@@ -33,15 +33,3 @@ I am a student of computer systems engineering.
   </p>
 
 <hr>
-
-<h2 align="center">My activity</h2>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cgasca-13&show_icons=true&hide_border=true&title_color=C9CC0D&icon_color=C9CC0D&text_color=B3B3B3&bg_color=0D1117&locale=en" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgasca-13&layout=compact&hide_border=true&title_color=C9CC0D&text_color=B3B3B3&bg_color=0D1117&hide=html,css&locale=en" alt="Top Languages" />
-  </a>
-</div>
