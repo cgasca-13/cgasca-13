@@ -9,7 +9,7 @@ I am a student of computer systems engineering.
 
 <ul>
   <li>🎓 I'm currently a student</li>
-  <li>🎮 I'm currently learning Python, Typescrip & competitive programming.</li>
+  <li>🎮 I'm currently learning Python, Typescript & competitive programming.</li>
   <li>🤝 I'm looking to collaborate on Projects</li>
   <li>💬 Ask me about C++, JavaScript, Java</li>
 </ul>
